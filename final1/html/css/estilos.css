@@ -1,0 +1,237 @@
+*{
+  margin:0;
+}
+
+body{
+  font-family: 'Mukta', sans-serif;
+  background-image:url(../img/comida5.jpg);
+  background-size:cover;
+  width:100%;
+  background-attachment: fixed;
+}
+
+
+}
+/*Header*/
+
+header{
+  background-color:rgba(76, 58, 40, 0.77);
+  position:fixed;
+  width: 100%;
+}
+
+.menu-bar{
+  padding-bottom:10px;
+  padding-top:20px;
+  background:rgba(76, 58, 40, 0.77);
+  
+}
+
+.menu-bar a{
+  color:#CBC2B8;
+  font-size:16px;
+  text-decoration:none;
+}
+
+.menu-bar a:hover{
+  color:#fff;
+  text-decoration:none;
+}
+
+
+
+.active {
+  color:#fff;
+}
+
+
+/*Titulo*/
+
+ h1 {
+  font-size: 70px;
+  text-align:center;
+  padding-bottom:250px;
+  padding-top:250px;
+
+  color:#fff;
+  font-family: 'Satisfy', cursive;
+}
+
+/*Chef*/
+
+
+.descri{
+  background-color:#F8F6F4;
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+.chef{
+  padding-top:70px;
+  width:100%;
+}
+
+.descri p {
+  text-align:center;
+  font-size:16px;
+  color:#7A6B5B;
+  font-family: 'Mukta', sans-serif;
+}
+
+.mt-0 {
+  color:#7A6B5B;
+  text-align:center;
+  font-weight:20;
+  font-family: 'Lobster Two', cursive;
+  font-size:40px;
+}
+
+/*separador*/
+
+.gif  {
+    text-align:center;
+    padding-bottom:170px;
+    padding-top:180px;
+
+}
+
+.gif h4{
+  font-family: 'Satisfy', cursive;
+  font-size:50px;
+  color:#fff;
+}
+
+.gif p {
+  font-family: 'Mukta', sans-serif;
+  color:#fff;
+  font-size:25px;
+}
+/*Nuestro Restaurante*/
+
+.resta img{
+  margin:0;
+  width:100%;
+  padding-top:60px;
+}
+
+.resta{
+  background-color:#F8F6F4;
+  color:#7A6B5B;
+  text-align:center;
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+
+/*FOOTER*/
+
+footer {
+  background:#645240;
+  text-align:center;
+  padding-bottom:10px;
+  padding-top:10px;
+}
+
+/*Menu*/
+
+.menu{
+ background-color:#F8F6F4; 
+ padding-top:30px;
+}
+
+.menu hr{
+ background-color:#000;
+}
+
+.menu .hr{
+padding-bottom:50px;
+ 
+}
+ .menu .row {
+  padding-bottom:30px;
+ }
+
+ .menu p {
+  text-align:justify;
+ }
+
+
+
+.menu h4{
+  
+font-family: 'Lobster Two', cursive;
+font-size:40px;
+color:#7A6B5B;
+
+}
+
+/*Reservacion*/
+
+.reser {
+  background-color:#F8F6F4;
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+.reser h5 {
+   color:#7A6B5B;
+  text-align:center;
+  font-weight:20;
+  font-family: 'Lobster Two', cursive;
+  font-size:40px; 
+}
+
+.reser label {
+   color:#2E2B28;
+  text-align:center;
+  font-family: 'Playfair Display', serif;
+  font-size:20px; 
+}
+
+.reser button {
+  background:#7A6B5B;
+  color:#fff;
+  font-family: 'Playfair Display', serif;
+}
+
+.reser p {
+  color:#2E2B28;
+  text-align:center;
+  font-family: 'Playfair Display', serif;
+  padding-bottom: 10px;
+  font-size:20px; 
+}
+
+/*Contactanos*/
+
+.concta {
+  background-color:#F8F6F4;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+.concta h4 {
+  color:#7A6B5B;
+  font-family: 'Lobster Two', cursive;
+  font-size:30px; 
+}
+
+.concta p {
+  color:#2E2B28;
+  font-family: 'Playfair Display', serif;
+}
+
+.concta button {
+  background:#7A6B5B;
+  color:#fff;
+  font-family: 'Playfair Display', serif;
+}
+
+
+iframe {
+
+}
+
+form input {
+ background:#F8F6F4;
+}
